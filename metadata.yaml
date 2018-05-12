@@ -1,0 +1,33 @@
+_repo: Humanity-s-Gain-from-UnbeliefReprinted-from-the--North-American-Review--of-March-1889_30206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradlaugh, Charles
+    aliases:
+    - Bradlaugh, C. (Charles)
+    - Iconoclast
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: ''
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+- !lcsh 'Atheism'
+title: 'Humanity''s Gain from Unbelief
+
+  Reprinted from the "North American Review" of March, 1889'
+url: http://www.gutenberg.org/ebooks/30206
